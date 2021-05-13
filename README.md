@@ -3,11 +3,9 @@
 
 
 ## Dataset
-
-> The dataset for Ford GoBike aggregates the data for rides in February 2019, Ford GoBike is the Bay Area’s bike share system. Bay Area Bike Share was introduced in 2013. It services San Francisco, the East Bay and San Jose.
+The dataset for Ford GoBike aggregates the data for rides in February 2019, Ford GoBike is the Bay Area’s bike share system. Bay Area Bike Share was introduced in 2013. It services San Francisco, the East Bay and San Jose.
 Similar to other bike share systems, Ford GoBike consists of a fleet of bikes that can be unlocked in one station and returned in any other network station. Thus, this is ideal for one-way trips. These bikes are available for use throughout the year and riders have access to all bikes in the network.
-
->Dataset 
+ 
 The dataset downloaded from udacity. It contains 183412 row and 16 columns.
 >- duration_sec ”int64”: Trip Duration (seconds)
 - start_time ”object“: Start Time and Date
