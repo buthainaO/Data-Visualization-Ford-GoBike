@@ -7,7 +7,7 @@ The dataset for Ford GoBike aggregates the data for rides in February 2019, Ford
 Similar to other bike share systems, Ford GoBike consists of a fleet of bikes that can be unlocked in one station and returned in any other network station. Thus, this is ideal for one-way trips. These bikes are available for use throughout the year and riders have access to all bikes in the network.
  
 The dataset downloaded from udacity. It contains 183412 row and 16 columns.
->- duration_sec ”int64”: Trip Duration (seconds)
+- duration_sec ”int64”: Trip Duration (seconds)
 - start_time ”object“: Start Time and Date
 - end_time ”object“: End Time and Date
 - start_station_id ”float64”: Start Station ID
@@ -39,7 +39,7 @@ Before running the codes, you will need to install these:
 
 ## Summary of Findings
 
-> - Most of the members are born in the years from 1980 to 2000 and the peak is from 1985 to 1990. 
+ - Most of the members are born in the years from 1980 to 2000 and the peak is from 1985 to 1990. 
 - The distribution between weekdays shows that Thursday and Tuesday are the peak days and most of the rides are during these days, on the other hand Sunday and Saturday are the least days. We can conclude from this information that most of the members are using it for work so there’s no need to use it on the weekends. 
 - 74.6% of the members are men, 23.3% are women and 2.1% identified as “others”. 
 - Most of the traffic in these start stations: Market St, San Francisco caltrain station 2, Berry St
@@ -51,7 +51,7 @@ Before running the codes, you will need to install these:
 
 ## Key Insights for Presentation
 
-> - The age group 30-40 tends to have more duration for riders. 
+ - The age group 30-40 tends to have more duration for riders. 
 - The subscriber type tends to overlap in small durations and the customer type has more durations. Most of the two types are between 20-60 years.
 - The distribution between weekdays shows that Thursday and Tuesday are the peak days and most of the rides are during these days, on the other hand Sunday and Saturday are the least days. 
 We can conclude from this information that most of the members are using it for work so there’s no need to use it on the weekends. 
